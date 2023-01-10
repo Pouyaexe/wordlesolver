@@ -1,2 +1,2 @@
 # wordlesolver
-Solving Wordle puzzle with Pyrthon
+Solving Wordle puzzle using Python
